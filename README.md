@@ -11,6 +11,8 @@ terraform apply
 ![Screenshot_606](https://user-images.githubusercontent.com/48188335/151391594-dabefaeb-5b90-4f53-b773-ee3aecd952dc.png)
 ![Screenshot_607](https://user-images.githubusercontent.com/48188335/151391611-a20e7fbc-87e0-4391-86ee-a1914b93ebbe.png)
 ![Screenshot_605](https://user-images.githubusercontent.com/48188335/151391628-8357364e-cf17-4a42-94d9-dab7d6fd627c.png)
+![Screenshot_610](https://user-images.githubusercontent.com/48188335/151394128-d07ffc00-f17d-4987-99d9-ca860927f34b.png)
+
 
 **J'ai crée une page web sur les deux instances pour tester le serveur Web qui renvoie  le texte "Hello Pole Presta".**
 
